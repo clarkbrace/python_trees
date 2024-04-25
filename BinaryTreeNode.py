@@ -1,4 +1,6 @@
 from typing import List
+
+
 class BinaryTreeNode:
     def __init__(self, val: int = None, left=None, right=None):
         self.val = val
